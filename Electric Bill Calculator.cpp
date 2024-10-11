@@ -1,6 +1,7 @@
 //Auther:Kelvin Waithera Kariuki
 //Admission:PA107/G/24231/24
-//aA program to calculate electricity bill of a user
+//Course:Computer Systems Engineering
+//A program to calculate electricity bill of a user
 #include <stdio.h>
 int main () {
 	int CustomerID;
