@@ -1,6 +1,7 @@
 //Author:Kelvin Kariuki Waithera
 //Course:Computer systems engineering
 //Adm:PA107/G/24231/24
+//A program to calculate compound intrest
 #include<stdio.h>
 #include<math.h>
 int main(){
